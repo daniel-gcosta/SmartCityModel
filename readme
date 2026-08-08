@@ -1,10 +1,10 @@
-# Smart City STEM Education Model
+Smart City STEM Education Model
 
-This project presents a **Smart City model designed to support STEM education for teenagers and young learners**. It provides a hands-on environment where students can explore concepts related to technology, science, engineering, programming, sustainability, and urban innovation.
+This project presents a Smart City model designed to support STEM education for teenagers and young learners. It provides a hands-on environment where students can explore concepts related to technology, science, engineering, programming, sustainability, and urban innovation.
 
 The project is organized in two complementary repositories:
 
-* **Smart City Model - Version 1(#)** — Basic operation of the modules, 3D-printed design, MQTT communications, AI-based visual computing. Link: https://github.com/Rui-Martins31/Smart_City_Model/tree/main
-* **Smart City Model - Version 2(#)** — Updated model operation, digital twin module. Link: https://gitlab.com/engenharia_de_sistemas_25_26/engenharia_de_sistemas_25_26
+- Smart City Model - Version 1.0 — Basic operation of the modules, 3D-printed design, MQTT communications, AI-based visual computing. Link: https://github.com/Rui-Martins31/Smart_City_Model/tree/main
+- Smart City Model - Version 2.0 — Updated model operation, digital twin module. Link: https://gitlab.com/engenharia_de_sistemas_25_26/engenharia_de_sistemas_25_26
 
 Together, these two repositories provide the required files to replicate the Smart City Model described in the paper "Enhancing STEM Education Through a 3D-Printed Smart City Model and Affordable Electronic Components", published in the IEEE Smart Cities 2026 conference (https://dei.fe.up.pt/ieee-isc2-2026/)
